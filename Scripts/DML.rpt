@@ -1,0 +1,33 @@
+﻿
+(3 linhas afetadas)
+
+(7 linhas afetadas)
+
+(3 linhas afetadas)
+
+(1 linha afetada)
+Mensagem 102, Nível 15, Estado 1, Linha 32
+Incorrect syntax near 'ALUES'.
+Mensagem 264, Nível 16, Estado 1, Linha 41
+The column name 'Id_Especiaizacao' is specified more than once in the SET clause or column list of an INSERT. A column cannot be assigned more than one value in the same clause. Modify the clause to make sure that a column is updated only once. If this statement updates or inserts columns into a view, column aliasing can conceal the duplication in your code.
+Mensagem 547, Nível 16, Estado 0, Linha 47
+The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Paciente__Id_Usu__4AB81AF0". The conflict occurred in database "SpMedicalGroup_Tarde", table "dbo.Usuario", column 'Id_Usuario'.
+The statement has been terminated.
+Mensagem 207, Nível 16, Estado 1, Linha 54
+Invalid column name 'Situacao'.
+Mensagem 207, Nível 16, Estado 1, Linha 54
+Invalid column name 'Data_Consulta'.
+Mensagem 207, Nível 16, Estado 1, Linha 54
+Invalid column name 'Id_Usuario'.
+Mensagem 207, Nível 16, Estado 1, Linha 54
+Invalid column name 'Id_Medico'.
+Mensagem 207, Nível 16, Estado 1, Linha 54
+Invalid column name 'Situacao'.
+Mensagem 207, Nível 16, Estado 1, Linha 54
+Invalid column name 'Data_Consulta'.
+Mensagem 207, Nível 16, Estado 1, Linha 54
+Invalid column name 'Id_Usuario'.
+Mensagem 207, Nível 16, Estado 1, Linha 54
+Invalid column name 'Id_Medico'.
+
+Horário de conclusão: 2020-02-12T16:11:57.3201440-03:00
